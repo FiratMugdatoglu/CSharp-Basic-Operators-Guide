@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try - Catch When Yapısı İle Hata Filtreleme", "Try - Catch When Yapısı İle Hata Filtreleme\Try - Catch When Yapısı İle Hata Filtreleme.csproj", "{EBFADAA1-BC20-4B58-8FC5-E466BC20C8C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBFADAA1-BC20-4B58-8FC5-E466BC20C8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFADAA1-BC20-4B58-8FC5-E466BC20C8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFADAA1-BC20-4B58-8FC5-E466BC20C8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFADAA1-BC20-4B58-8FC5-E466BC20C8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22AF090B-B4B0-4D8F-A3FD-FAC6983AFD5B}
+	EndGlobalSection
+EndGlobal

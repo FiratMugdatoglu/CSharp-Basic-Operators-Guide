@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ranges and Indices - System.Index Türü İnceleme", "Ranges and Indices - System.Index Türü İnceleme\Ranges and Indices - System.Index Türü İnceleme.csproj", "{EA326B61-7541-4FA2-8871-8E5CC62CAC5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA326B61-7541-4FA2-8871-8E5CC62CAC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA326B61-7541-4FA2-8871-8E5CC62CAC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA326B61-7541-4FA2-8871-8E5CC62CAC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA326B61-7541-4FA2-8871-8E5CC62CAC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8E4E914-A3B8-4794-B8CC-FB96A4E36426}
+	EndGlobalSection
+EndGlobal
